@@ -28,7 +28,7 @@ GIF created with ezgif.com/
 
 ## App Brainstorming (Step 4):
 
-* Format = Example App: Feature Description.
+(Example App: Feature Description)
 
 * LetterBoxd: Writing reviews, and interacting with other reviews. Creating different lists to sort movies, and keep track of progress.
 
@@ -36,7 +36,7 @@ GIF created with ezgif.com/
 
 * Paperback (Manga Reading App): The ability to download manga from different websites and store them all in one library is amazing. The app also saves which page we left on in automatically. 
 
-- I've always wanted to build an Football app that records every game played in football history, and has different sections to get every major data possible about each game, player, stadium, coach etc. Doing all of this would be a very time-consuming process, so for simplicity I would start off by creating an app that shows a team's win rate vs different options at a stadium. This would be helpful in predicting games and making for a more fun experience when watching games.
+    I've always wanted to build an Football app that records every game played in football history, and has different sections to get every major data possible about each game, player, stadium, coach etc. Doing all of this would be a very time-consuming process, so for simplicity I would start off by creating an app that shows a team's win rate vs different options at a stadium. This would be helpful in predicting games and making for a more fun experience when watching games.
   
 
 ## Notes
